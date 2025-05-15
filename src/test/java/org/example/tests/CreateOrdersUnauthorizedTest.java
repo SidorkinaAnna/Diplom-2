@@ -6,9 +6,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.example.dto.Ingredient;
 import org.example.dto.Order;
-import org.example.dto.RequestDTO;
 import org.example.stepdefs.Steps;
-import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
