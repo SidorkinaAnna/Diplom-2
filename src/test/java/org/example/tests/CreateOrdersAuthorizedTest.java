@@ -17,7 +17,6 @@ import java.util.List;
 
 import static org.example.stepdefs.Steps.*;
 import static org.hamcrest.Matchers.equalTo;
-import static org.hamcrest.Matchers.in;
 
 public class CreateOrdersAuthorizedTest {
     private String token = "";
